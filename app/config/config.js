@@ -1,4 +1,4 @@
-exports.PATH = 'C:/Bongvip'
+exports.PATH = 'bongvip'
 exports.DATA = this.PATH + '/data'
 exports.USERFILE = this.DATA + '/user.json'
 exports.QUAYTHUONG = this.DATA + '/nhanlixi.json'
